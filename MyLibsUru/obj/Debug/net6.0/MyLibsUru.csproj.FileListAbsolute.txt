@@ -1,0 +1,16 @@
+F:\repos\UnitTests-master\MyLibsUru\bin\Debug\net6.0\MyLibsUru.deps.json
+F:\repos\UnitTests-master\MyLibsUru\bin\Debug\net6.0\MyLibsUru.dll
+F:\repos\UnitTests-master\MyLibsUru\bin\Debug\net6.0\MyLibsUru.pdb
+F:\repos\UnitTests-master\MyLibsUru\bin\Debug\net6.0\Airport.exe
+F:\repos\UnitTests-master\MyLibsUru\bin\Debug\net6.0\Airport.pdb
+F:\repos\UnitTests-master\MyLibsUru\bin\Debug\net6.0\Airport.exe.config
+F:\repos\UnitTests-master\MyLibsUru\obj\Debug\net6.0\MyLibsUru.csproj.AssemblyReference.cache
+F:\repos\UnitTests-master\MyLibsUru\obj\Debug\net6.0\MyLibsUru.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\UnitTests-master\MyLibsUru\obj\Debug\net6.0\MyLibsUru.AssemblyInfoInputs.cache
+F:\repos\UnitTests-master\MyLibsUru\obj\Debug\net6.0\MyLibsUru.AssemblyInfo.cs
+F:\repos\UnitTests-master\MyLibsUru\obj\Debug\net6.0\MyLibsUru.csproj.CoreCompileInputs.cache
+F:\repos\UnitTests-master\MyLibsUru\obj\Debug\net6.0\MyLibsUru.csproj.CopyComplete
+F:\repos\UnitTests-master\MyLibsUru\obj\Debug\net6.0\MyLibsUru.dll
+F:\repos\UnitTests-master\MyLibsUru\obj\Debug\net6.0\refint\MyLibsUru.dll
+F:\repos\UnitTests-master\MyLibsUru\obj\Debug\net6.0\MyLibsUru.pdb
+F:\repos\UnitTests-master\MyLibsUru\obj\Debug\net6.0\ref\MyLibsUru.dll
